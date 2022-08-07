@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahdi
-- 👀 I’m interested in font-end programming , exercising and
+- 👀 I’m interested in font-end programming , exercising and alsi a little bit waching movies
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
