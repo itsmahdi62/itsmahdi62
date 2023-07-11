@@ -7,8 +7,10 @@ Hi there 👋
       
 
  <br>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmahdi62&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmahdi62&" alt="itsmahdi62" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmahdi62&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmahdi62&" alt="itsmahdi62" /></p>
