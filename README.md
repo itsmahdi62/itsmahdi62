@@ -27,8 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material-Ui logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
-          
-          
- 
+  <br>
+  <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmahdi62&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi Almasi" /> </p>
 </div>
 
