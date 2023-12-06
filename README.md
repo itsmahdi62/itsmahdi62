@@ -30,5 +30,8 @@
   <br>
   <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmahdi62&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi Almasi" /> </p>
+  <br >
+  <br>
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=itsmahdi62&theme=dracula" alt="Mahdi Almasi" /></p>
 </div>
 
