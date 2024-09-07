@@ -7,9 +7,14 @@
 </div>
 <br>
 <br>
-<br>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -30,7 +35,7 @@
   <br>
   <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmahdi62&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi Almasi" /> </p>
-  <br >
+  <br>
   <br>
   
 </div>
